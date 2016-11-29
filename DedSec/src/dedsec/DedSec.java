@@ -16,9 +16,13 @@ public class DedSec {
      */
     public static void main(String[] args) {
         
+        System.out.println("-----------------------------------");
         System.out.println("------------DedSec TEAM------------");
         System.out.println("-----------------------------------");
-        
+        System.out.println("------------_1_DATOS_1_------------");
+        System.out.println("------------_2_HACKS_2_------------");
+        System.out.println("-----------------------------------");
+        System.out.println("-----------------------------------");
         
     }
     
