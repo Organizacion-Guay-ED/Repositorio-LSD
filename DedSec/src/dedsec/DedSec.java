@@ -17,6 +17,8 @@ public class DedSec {
     public static void main(String[] args) {
         
         System.out.println("------------DedSec TEAM------------");
+        System.out.println("-----------------------------------");
+        
         
     }
     
